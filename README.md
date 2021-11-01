@@ -5,9 +5,11 @@ Code project: Content Management System
 
 **Login/Logout Files:** login1, login2, logout
 
-**Administration:** adminPanel
+**Administration:** AdminPanel
 
 **Content Management:** input (includes text, image, link management and slideshow management)
+
+**Order Slideshow:** orderList
 
 **Database:** insert
 
