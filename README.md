@@ -11,8 +11,8 @@ Code project: Content Management System
 
 **Order Slideshow:** orderList
 
-**Database:** insert
+**Database Entries and Updates:** insert
 
 **Create/Update Pages:** put
 
-📺 This CMS Project includes a vanilla JavaScript slideshow in the index.php file!
+📺 This CMS Project includes a vanilla JavaScript slideshow in the index.php file! 
