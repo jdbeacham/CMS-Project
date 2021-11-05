@@ -15,4 +15,4 @@ Code project: Content Management System
 
 **Create/Update Pages:** put
 
-
+📺 This CMS Project includes a vanilla JavaScript slideshow in the index.php file!
