@@ -17,5 +17,5 @@ Code project: Content Management System
 
 📺 This CMS Project includes a vanilla JavaScript slideshow in the index.php file! 
 
-<img src = "https://jb-codes.com/CMScapture.PNG" style="width: 500px;">
+<img src = "https://jb-codes.com/CMScapture2.PNG" style="width: 500px;">
 
